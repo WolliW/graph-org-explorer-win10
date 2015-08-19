@@ -1,0 +1,1 @@
+C:\Projects\Office365\Samples\Windows10OrgExplorer\Windows10OrgExplorer\Windows10OrgExplorer.csproj;x86
